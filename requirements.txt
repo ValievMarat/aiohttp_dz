@@ -1,0 +1,6 @@
+aiohttp
+aiohttp[speedups]
+asyncpg
+SQLAlchemy==1.4.46
+pydantic
+bcrypt
